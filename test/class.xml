@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><asdoc build="asd3_0_b2_1">
+   <link rel="stylesheet" href="style.css" type="text/css"/>
+   <packages>
+      <asPackage name="sandbox">
+         <classes>
+            <asClass name="Channel10" type="class" fullname="caurina.transitions:Tweener" accessLevel="public" isFinal="false" isDynamic="false" packageName="sandbox.test" path="" relativePath="../" href="" taghref="" inheritDoc="false">
+               <author>author</author>
+               <example>aaaaaaaaa</example>
+               <example>aaaaaaaaa</example>
+               <example>aaaaaaaaa</example>
+               <example>aaaaaaaaa</example>
+               <versions>
+                  <langversion version="ActionScript 3.0  "/>
+                  <playerversion name="Flash" version="8.5&#10;"/>
+               </versions>
+               <author/>
+               <description>aaaaa</description>
+               <defaultProperty name="defaultProperty sample" />
+               <customs>
+                  <tiptext>tip text</tiptext>
+                  <mxml>Customs Mxmlaaaaaaaaaaaa</mxml>
+               </customs>
+               <asAncestors>
+                  <asAncestor>
+                     <classRef name="NewsFeedElement" fullName="com.adobe.xml.syndication:NewsFeedElement" packageName="com.adobe.xml.syndication" relativePath="../NewsFeedElement.html"/>
+
+
+               <asDecendants>
+                  <classRef name="Channel10" fullName="com.adobe.xml.syndication.rss:Channel10" packageName="com.adobe.xml.syndication.rss" relativePath="rss/Channel10.html"/>
+                  <classRef name="Image10" fullName="com.adobe.xml.syndication.rss:Image10" packageName="com.adobe.xml.syndication.rss" relativePath="rss/Image10.html"/>
+                  <classRef name="Item10" fullName="com.adobe.xml.syndication.rss:Item10" packageName="com.adobe.xml.syndication.rss" relativePath="rss/Item10.html"/>
+               </asDecendants>
+
+               <methods>
+                  <method name="somePublicMethod" fullname="sandbox.test:TestClass/somePublicMethod" accessLevel="public" result_type="Boolean" isFinal="false" isOverride="false" isStatic="true" inheritDoc="false">
+                     <description>Sample of Method</description>
+                     <shortDescription>Sample of Method(Short)</shortDescription>
+                     <versions/>
+                     <result type="Boolean">result:returns Boolean</result>
+                     <params>
+                        <param name="arg1" type="Object" default="null">
+                           <description>arg1 description</description>
+                        </param>
+                        <param name="arg2" type="Object" default="null">
+                           <description>arg2 description</description>
+                        </param>
+                     </params>
+                     <example>aaaaaaaaa</example>
+                  </method>
+               </methods>
+               <fields>
+                  <field name="x" fullname="com.adobe.xml.syndication:NewsFeedElement/protected:x" accessLevel="public" type="XMLList" isConst="false" isStatic="false">
+                     <description>Sample of Method</description>
+                     <shortDescription>Sample of Method(Short)</shortDescription>
+                     <versions/>
+                  </field>
+                  <field name="x" fullname="com.adobe.xml.syndication:NewsFeedElement/protected:x" accessLevel="protected" type="XMLList" isConst="false" isStatic="false">
+                     <description>Sample of Method</description>
+                     <shortDescription>Sample of Method(Short)</shortDescription>
+                     <versions/>
+                  </field>
+                  <field name="x" fullname="com.adobe.xml.syndication:NewsFeedElement/protected:x" accessLevel="public" type="XMLList" isConst="true" isStatic="false">
+                     <description>Sample of Method</description>
+                     <shortDescription>Sample of Method(Short)</shortDescription>
+                     <versions/>
+                  </field>
+                  <field name="x" fullname="com.adobe.xml.syndication:NewsFeedElement/protected:x" accessLevel="protected" type="XMLList" isConst="true" isStatic="false">
+                     <description>Sample of Method</description>
+                     <shortDescription>Sample of Method(Short)</shortDescription>
+                     <versions/>
+                  </field>
+                  <field name="x" fullname="com.adobe.xml.syndication:NewsFeedElement/protected:x" accessLevel="public" type="XMLList" isConst="false" isStatic="true">
+                     <description>Sample of Method</description>
+                     <shortDescription>Sample of Method(Short)</shortDescription>
+                     <versions/>
+                  </field>
+                  <field name="x" fullname="com.adobe.xml.syndication:NewsFeedElement/protected:x" accessLevel="protected" type="XMLList" isConst="false" isStatic="true">
+                     <description>Sample of Method</description>
+                     <shortDescription>Sample of Method(Short)</shortDescription>
+                     <versions/>
+                  </field>
+                  <field name="x" fullname="com.adobe.xml.syndication:NewsFeedElement/protected:x" accessLevel="public" type="XMLList" isConst="true" isStatic="true">
+                     <description>Sample of Method</description>
+                     <shortDescription>Sample of Method(Short)</shortDescription>
+                     <versions/>
+                  </field>
+                  <field name="x" fullname="com.adobe.xml.syndication:NewsFeedElement/protected:x" accessLevel="protected" type="XMLList" isConst="true" isStatic="true">
+                     <description>Sample of Method</description>
+                     <shortDescription>Sample of Method(Short)</shortDescription>
+                     <versions/>
+                  </field>
+               </fields>
+               <effects>
+                  <effect name="somePublicMethod" fullname="sandbox.test:TestClass/somePublicMethod" accessLevel="public" result_type="Boolean" isFinal="false" isOverride="false" isStatic="true" inheritDoc="false">
+                     <description>Sample of Method</description>
+                     <shortDescription>Sample of Method(Short)</shortDescription>
+                     <versions/>
+                  </effect>
+               </effects>
+               <eventsGenerated>
+                  <event name="somePublicMethod" fullname="sandbox.test:TestClass/somePublicMethod" accessLevel="public" result_type="Boolean" isFinal="false" isOverride="false" isStatic="true" inheritDoc="false">
+                     <description>Sample of Method</description>
+                     <shortDescription>Sample of Method(Short)</shortDescription>
+                     <versions/>
+                  </event>
+               </eventsGenerated>
+               <styles>
+                  <style name="somePublicMethod" fullname="sandbox.test:TestClass/somePublicMethod" accessLevel="public" result_type="Boolean" isFinal="false" isOverride="false" isStatic="true" inheritDoc="false">
+                     <description>Sample of Method</description>
+                     <shortDescription>Sample of Method(Short)</shortDescription>
+                     <versions/>
+                  </style>
+               </styles>
+
+
+
+                  </asAncestor>
+               </asAncestors>
+               <methods>
+                  <method name="somePublicMethod" fullname="sandbox.test:TestClass/somePublicMethod" accessLevel="public" result_type="Boolean" isFinal="false" isOverride="false" isStatic="true" inheritDoc="false">
+                     <description>Sample of Method</description>
+                     <shortDescription>Sample of Method(Short)</shortDescription>
+                     <versions/>
+                     <result type="Boolean">result:returns Boolean</result>
+                     <params>
+                        <param name="arg1" type="Object" default="null">
+                           <description>arg1 description</description>
+                        </param>
+                        <param name="arg2" type="Object" default="null">
+                           <description>arg2 description</description>
+                        </param>
+                     </params>
+                  </method>
+               </methods>
+
+               <constructors>
+                  <constructor name="Channel10" fullname="sandbox.test:TestClass/somePublicMethod" accessLevel="public" result_type="Boolean" isFinal="false" isOverride="false" isStatic="true" inheritDoc="false">
+                     <description>Sample of Method</description>
+                     <shortDescription>Sample of Method(Short)</shortDescription>
+                     <versions/>
+                     <result type="Boolean">result:returns Boolean</result>
+                     <params>
+                        <param name="arg1" type="Object" default="null">
+                           <description>arg1 description</description>
+                        </param>
+                        <param name="arg2" type="Object" default="null">
+                           <description>arg2 description</description>
+                        </param>
+                     </params>
+                     <example>aaaaaaaaa</example>
+                  </constructor>
+               </constructors>
+
+               <eventsGenerated>
+                  <event name="somePublicMethod" fullname="sandbox.test:TestClass/somePublicMethod" accessLevel="public" result_type="Boolean" isFinal="false" isOverride="false" isStatic="true" inheritDoc="false">
+                     <description>Sample of Method</description>
+                     <shortDescription>Sample of Method(Short)</shortDescription>
+                     <versions/>
+                  </event>
+               </eventsGenerated>
+
+               <fields>
+                  <field name="x" fullname="com.adobe.xml.syndication:NewsFeedElement/protected:x" accessLevel="public" type="XMLList" isConst="false" isStatic="false">
+                     <description>Sample of Method</description>
+                     <shortDescription>Sample of Method(Short)</shortDescription>
+                     <versions/>
+                  </field>
+                  <field name="x" fullname="com.adobe.xml.syndication:NewsFeedElement/protected:x" accessLevel="protected" type="XMLList" isConst="false" isStatic="false">
+                     <description>Sample of Method</description>
+                     <shortDescription>Sample of Method(Short)</shortDescription>
+                     <versions/>
+                  </field>
+                  <field name="x" fullname="com.adobe.xml.syndication:NewsFeedElement/protected:x" accessLevel="public" type="XMLList" isConst="true" isStatic="false">
+                     <description>Sample of Method</description>
+                     <shortDescription>Sample of Method(Short)</shortDescription>
+                     <versions/>
+                  </field>
+                  <field name="x" fullname="com.adobe.xml.syndication:NewsFeedElement/protected:x" accessLevel="protected" type="XMLList" isConst="true" isStatic="false">
+                     <description>Sample of Method</description>
+                     <shortDescription>Sample of Method(Short)</shortDescription>
+                     <versions/>
+                  </field>
+                  <field name="x" fullname="com.adobe.xml.syndication:NewsFeedElement/protected:x" accessLevel="public" type="XMLList" isConst="false" isStatic="true">
+                     <description>Sample of Method</description>
+                     <shortDescription>Sample of Method(Short)</shortDescription>
+                     <versions/>
+                  </field>
+                  <field name="x" fullname="com.adobe.xml.syndication:NewsFeedElement/protected:x" accessLevel="protected" type="XMLList" isConst="false" isStatic="true">
+                     <description>Sample of Method</description>
+                     <shortDescription>Sample of Method(Short)</shortDescription>
+                     <versions/>
+                  </field>
+                  <field name="x" fullname="com.adobe.xml.syndication:NewsFeedElement/protected:x" accessLevel="public" type="XMLList" isConst="true" isStatic="true">
+                     <description>Sample of Method</description>
+                     <shortDescription>Sample of Method(Short)</shortDescription>
+                     <versions/>
+                  </field>
+                  <field name="x" fullname="com.adobe.xml.syndication:NewsFeedElement/protected:x" accessLevel="protected" type="XMLList" isConst="true" isStatic="true">
+                     <description>Sample of Method</description>
+                     <shortDescription>Sample of Method(Short)</shortDescription>
+                     <versions/>
+                  </field>
+               </fields>
+               <effects>
+                  <effect name="somePublicMethod" fullname="sandbox.test:TestClass/somePublicMethod" accessLevel="public" result_type="Boolean" isFinal="false" isOverride="false" isStatic="true" inheritDoc="false">
+                     <description>Sample of Method</description>
+                     <shortDescription>Sample of Method(Short)</shortDescription>
+                     <versions/>
+                  </effect>
+               </effects>
+               <styles>
+                  <style name="somePublicMethod" fullname="sandbox.test:TestClass/somePublicMethod" accessLevel="public" result_type="Boolean" isFinal="false" isOverride="false" isStatic="true" inheritDoc="false">
+                     <description>Sample of Method</description>
+                     <shortDescription>Sample of Method(Short)</shortDescription>
+                     <versions/>
+                  </style>
+               </styles>
+            </asClass>
+          </classes>
+      </asPackage>
+   </packages>
+</asdoc>

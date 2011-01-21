@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<flex-config xmlns="http://www.adobe.com/2006/flex-config">
+   <window-title>ASDoc for iPhone</window-title>
+   <main-title>ASDoc for iPhone</main-title>
+   <output>asdoc-iphone</output>
+   <compiler>
+      <show-actionscript-warnings>true</show-actionscript-warnings>
+      <show-binding-warnings>true</show-binding-warnings>
+      <show-unused-type-selector-warnings>true</show-unused-type-selector-warnings>
+      <strict>true</strict>
+   </compiler>
+   <doc-sources>
+      <path-element>libspark/Utils/src</path-element>
+   </doc-sources>
+   <templates-path>../</templates-path>
+   <footer>Powered by ASDoc for iPhone</footer>
+   <packages>
+      <package>
+         <string>org.libspark.utils</string>
+         <string>ユーティリティ的なもの（パッケージの概要のサンプル）</string>
+      </package>
+   </packages>
+</flex-config>

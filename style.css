@@ -1,0 +1,54 @@
+/*
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ * 
+ * http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, 
+ * either express or implied. See the License for the specific language
+ * governing permissions and limitations under the License.
+ */
+
+#iwebkit-footer address { margin:0; padding:0; font-size:9pt; color:#4c4c4c; text-shadow:0 1px 0 #FFFFFF; font-style:normal; }
+ul.classlist li.interface span.name { font-style:italic; }
+ul.classlist li.package span.name { font-size:9pt; line-height:180%; }
+.graytitle a { color:#4C4C4C; text-decoration:none; }
+div#iwebkit-content ul li.thintop { border-top-color:#eee; }
+ul#package-main li.textbox span.header { padding-top:8px; }
+ul#package-main li.textbox ,
+ul#package-main li.textbox p { text-align:left; }
+
+table { border-collapse:collapse; }
+th { font-weight:bold; text-align:left; padding:2px 1em 2px 0; }
+td { text-align:left; padding:2px 0; }
+table.class-info { font-size:9pt; }
+dl, dt, dd { margin:0; padding:0; }
+dt { font-weight:bold; padding-top:5px; }
+dl.sees { font-size:9pt; }
+dl.sees dd { padding-left:1em; }
+
+.showHideButton a { text-decoration:none; font-size:9pt; }
+.hiddenBlock .hideButton,
+.showButton { display:none; }
+.hiddenBlock .showButton { display:inline; }
+.hiddenBlock .hiddenBlockTarget { display:none; }
+
+.signatureLink { font-weight:bold; text-decoration:none; }
+.signatureLink span.name { text-decoration:underline; }
+.signatureLink span.inherited-icon { display:inline-block; height:12pt; width:14px; overflow:hidden; position:relative;  }
+.signatureLink span.inherited-icon img { position:absolute; top:-5px; }
+.defaultValue { font-size:9pt; }
+
+span.header span.type { font-weight:normal; color:#999; font-size:9pt; }
+span.header span.params { font-weight:normal; color:#666; }
+
+code { font-size:9pt; }
+code.sign { display:inline-block; padding-right:0.5em; padding-bottom:1em; }
+span.only { display:inline-block; padding:1pt 3pt; font-size:9pt; background-color:#aaa; color:#fff; margin-right:2pt; }
+
+.example .header { font-size:9pt; font-weight:bolder; color:#000; margin-bottom:5px; line-height:10pt; }
+.example blockquote { display:block; padding:0; width:95%; margin:0 auto; font-size:9pt; }
+.example blockquote .listing pre { padding:1em 0; background-color:#eee; font-size:9pt; border:0; margin:1em auto; display:block; -webkit-user-drag:element; }
