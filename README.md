@@ -53,7 +53,7 @@ XMLは、例えば、[こんな感じのものです](http://www.libspark.org/br
 ##開発環境
 [Apache Cocoon](http://cocoon.apache.org/)を使っています。
 
-cocoon環境構築方法は[こちら](http://labs.ngsdev.org/wiki/cocoon/MacOSX)に記載してます。（MacOSXのみ、ごめんなさい、Windowsはまだないです。）
+cocoon環境構築方法は[こちら](http://ja.ngs.io/2008/01/22/cocoon/)に記載してます。（MacOSX のみ、ごめんなさい、Windowsはまだないです。）
 
 以下は構築例です。
 ### 1. ビルドしたcocoonのディレクトリの中にある、build/webappの中に、devというディレクトリを作ります。
